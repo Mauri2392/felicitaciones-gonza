@@ -208,7 +208,8 @@ img {
    /* max-width: 100vw; 
     height: 100%; 
     object-fit: cover; */
-}
+} 
+/*
 .slider .buttons{
     position: absolute;
     top: 45%;
@@ -226,7 +227,8 @@ img {
     border: none;
     font-family: monospace;
     font-weight: bold;
-}
+} 
+
 .slider .dots{
     position: absolute;
     bottom: 10px;
@@ -249,7 +251,7 @@ img {
 }
 .slider .dots li.active{
     width: 30px;
-}
+}*/
 @media screen and (max-width: 768px){
     .slider{
         height: 400px;
@@ -515,7 +517,7 @@ img {
 .nuve {
     /* max-width: 1200px; */
     margin: 0 auto;
-    background-image: url(./images/galeria/criptos/fondo_3.png); 
+   /* background-image: url(./images/galeria/criptos/fondo_3.png); */
     background-repeat: no-repeat;
     background-size: 100%; 
     background-position: center;
